@@ -1,0 +1,27 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "Dilek Gencer CV",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digencer/digencer.github.io.git"
+  },
+  "keywords": [
+    "cv"
+  ],
+  "author": "Dilek Gencer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/digencer/digencer.github.io/issues"
+  },
+  "homepage": "https://github.com/digencer/digencer.github.io",
+  "devDependencies": {
+    "gulp": "3.9.1",
+    "gulp-autoprefixer": "3.1.1",
+    "gulp-livereload": "3.8.1"
+  }
+}
